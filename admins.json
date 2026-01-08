@@ -1,0 +1,24 @@
+{
+	"admins":[
+		{
+			"username": "Steam-Fox",
+			"password": "greatest_engineer",
+			"token": ""
+		},
+		{
+			"username": "NeoneRacoon",
+			"password": "",
+			"token": ""
+		},
+		{
+			"username": "Nighter",
+			"password": "",
+			"token": ""
+		},
+		{
+			"username": "NoName",
+			"password": "nogame_nolife",
+			"token": ""
+		}
+	]
+}
