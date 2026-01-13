@@ -2,12 +2,7 @@
 	"admins":[
 		{
 			"username": "Steam-Fox",
-			"password": "og_steam_fox",
-			"token": ""
-		},
-		{
-			"username": "NeoneRacoon",
-			"password": "",
+			"password": "crazy_fox_engineer",
 			"token": ""
 		},
 		{
@@ -21,5 +16,5 @@
 			"token": ""
 		}
 	]
-
 }
+
