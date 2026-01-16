@@ -1,17 +1,18 @@
 {
-	"admins":[
-		{
+	"admins":{
+		"Steam-Fox":{
 			"username": "Steam-Fox",
 			"password": "crazy_fox_engineer"
 		},
-		{
+		"Nighter":{
 			"username": "Nighter",
 			"password": "[still_waiting_for_password_selection"
 		},
-		{
+		"Azumi":{
 			"username": "NoName",
 			"password": "Sora_loss"
 		}
-	],
+    },
 	"token": "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"
 }
+
